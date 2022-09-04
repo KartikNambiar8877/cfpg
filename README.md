@@ -2,6 +2,10 @@
 [Note:- Refer Documentation.pdf for a full description of this project]
 ## What is Plasma Gasification?
 Plasma arc gasification (PAG), waste-treatment technology that uses a combination of electricity and high temperatures to turn municipal waste (garbage or trash) into usable by-products without combustion (burning). Although the technology is sometimes confused with incinerating or burning trash, plasma gasification does not combust the waste as incinerators do. Instead, it converts the organic waste into a gas that still contains all its chemical and heat energy and converts the inorganic waste into an inert vitrified glass called slag. The process can reduce the volume of waste sent to landfills and generate electricity.
+## Some advantages are as follows:-
+Processing of biomass waste into combustible syngas for electric power and thermal energy.
+Production of value-added products such as metals from slag.
+Safe means to destroy both medical and many other hazardous wastes.
 ## What did we do?
 In this project, we are simulating an apparatus capable of Plasma Gasification, and we making a GUI that has the capability of controlling the gases to keep the temperature of the setup in check. It maintains the flow of gases so that its never deviating from the ideal conditions, while being flexible enough to modify the conditions, within reason.
 ## How does it work?
